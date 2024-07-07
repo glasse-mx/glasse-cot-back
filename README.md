@@ -1,4 +1,4 @@
-# CIAMPI - COTIZACIONES - BACKEND
+# GLASSE - COTIZACIONES - BACKEND
 
 Esta app basada en Laravel 10, se centra en ofrecer una gestion de las notas de venta y cotizaciones de la empresa, esta parte solo contempla el backend, usa rutas en API REST para ofrecer los servicios.
 
